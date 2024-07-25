@@ -1,0 +1,10 @@
+
+
+
+{
+    "name": "TestPink",
+    "dataColors": ["#1A81FB", "#142091", "#E16338", "#5F076E", "#DA3F9D", "#6945B8", "#D3AA22", "#CF404A"],
+    "foreground": "#FFC0CB",
+    "background": "#FFFFFF",
+    "tableAccent": "#B73A3A"
+}
